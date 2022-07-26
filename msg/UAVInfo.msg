@@ -1,0 +1,2 @@
+float64 UAVheight
+float64 UAVyaw
